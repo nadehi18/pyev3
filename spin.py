@@ -12,9 +12,8 @@ motor_c.command = 'run-direct'
 motor_b.duty_cycle_sp = 100
 motor_c.duty_cycle_sp = -100
 
-    #sleep(.1)
+sleep(10)
 
-    #motor_b.duty_cycle_sp = 0
-    #motor_c.duty_cycle_sp = 0
+motor_b.duty_cycle_sp = 0
+motor_c.duty_cycle_sp = 0
 
-    #sleep(.5)
