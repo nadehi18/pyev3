@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import ev3dev.ev3 as ev3
 from time import sleep
 
