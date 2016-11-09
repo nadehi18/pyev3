@@ -9,8 +9,8 @@ motor_c.command = 'run-direct'
 
 while True:
 
-    motor_b.duty_cycle_sp = 50
-    motor_c.duty_cycle_sp = -50
+    motor_b.duty_cycle_sp = 100
+    motor_c.duty_cycle_sp = -100
 
     sleep(.1)
 
