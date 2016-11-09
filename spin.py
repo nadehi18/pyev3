@@ -17,4 +17,4 @@ while True:
     motor_b.duty_cycle_sp = 0
     motor_c.duty_cycle_sp = 0
 
-    sleep(1)
+    sleep(.5)
